@@ -1,16 +1,16 @@
-# mobileworkflutterpractice
+# Simple Tap Game
 
-A new Flutter project.
+A simple tap-based game built using Flutter where the player tries to score as many points as possible by tapping the screen in a limited time.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Start a 10-second game with a button tap.
+- Tap the screen to increase your score.
+- The game ends when time runs out, and the score is displayed.
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run the Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/simple-tap-game.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
